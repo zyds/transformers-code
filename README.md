@@ -6,19 +6,21 @@
 
 # 课程地址
 
-课程视频均发布在B站，会逐步进行更新
+课程视频均发布在B站，代码与视频会逐步进行更新，一般视频通过审核后更新代码
 
 ## Transformers 入门篇
 
-- [基础知识与环境安装](https://www.bilibili.com/video/BV1ma4y1g791)
+- [01-基础知识与环境安装](https://www.bilibili.com/video/BV1ma4y1g791)
 
-- [基础组件之Pipeline](https://www.bilibili.com/video/BV1ta4y1g7bq)
+- [02-基础组件之Pipeline](https://www.bilibili.com/video/BV1ta4y1g7bq)
 
-- [基础组件之Tokenizer](https://www.bilibili.com/video/BV1NX4y1177c)
+- [03-基础组件之Tokenizer](https://www.bilibili.com/video/BV1NX4y1177c)
 
-- [基础组件之Model(上) 基本使用](https://www.bilibili.com/video/BV1KM4y1q7Js/)
+- [04-基础组件之Model(上) 基本使用](https://www.bilibili.com/video/BV1KM4y1q7Js/)
 
-- [基础组件之Model(下) BERT文本分类代码实例](https://www.bilibili.com/video/BV18T411t7h6/)
+- [04-基础组件之Model(下) BERT文本分类代码实例](https://www.bilibili.com/video/BV18T411t7h6/)
+
+- [05-基础组件之Datasets](https://www.bilibili.com/video/BV1Ph4y1b76w/)
 
 # 请作者喝杯奶茶
 
