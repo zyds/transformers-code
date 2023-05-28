@@ -22,6 +22,8 @@
 
 - [05-基础组件之Datasets](https://www.bilibili.com/video/BV1Ph4y1b76w/)
 
+- [06-基础组件之Evaluate](https://www.bilibili.com/video/BV1uk4y1W7tK/)
+
 # 请作者喝杯奶茶
 
 ![](./imgs/wx.jpg)
