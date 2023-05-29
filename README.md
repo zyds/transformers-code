@@ -24,6 +24,8 @@
 
 - [06-基础组件之Evaluate](https://www.bilibili.com/video/BV1uk4y1W7tK/)
 
+- [07-基础组件之Trainer](https://www.bilibili.com/video/BV1KX4y1a7Jk/)
+
 # 请作者喝杯奶茶
 
 ![](./imgs/wx.jpg)
