@@ -30,6 +30,14 @@
 
 - [08-基于 Transformers的 NLP解决方案](https://www.bilibili.com/video/BV18N411C71F/)
 
+- [09-实战演练之 命名实体识别](https://www.bilibili.com/video/BV1gW4y197CT/)
+
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zyds/transformers-code&type=Date)](https://star-history.com/#zyds/transformers-code&Date)
+
+
 # 请作者喝杯奶茶
 
 ![](./imgs/wx.jpg)
