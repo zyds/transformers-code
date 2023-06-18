@@ -24,17 +24,25 @@
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1ta4y1g7bq)
 
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=Xeu3qFTP9qY&t=7s)
+
 - 03-基础组件之 Tokenizer
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1NX4y1177c)
+
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=G4JmQu-VWrU)
 
 - 04-基础组件之 Model(上) 基本使用
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1KM4y1q7Js/)
 
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=xK-6VcLqa94)
+
 - 04-基础组件之 Model(下) BERT文本分类代码实例
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV18T411t7h6/)
+
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=nkwOQQDCDvc)
 
 - 05-基础组件之 Datasets
 
@@ -57,6 +65,10 @@
 - 09-实战演练之 命名实体识别
    
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1gW4y197CT/)
+
+- 10-实战演练之 机器阅读理解（上）
+   
+   - [Bilibili 视频链接](https://www.bilibili.com/video/BV1rs4y1k7FX/)
 
 
 # Star History
