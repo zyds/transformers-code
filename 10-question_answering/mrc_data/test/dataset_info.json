@@ -1,0 +1,83 @@
+{
+  "builder_name": "cmrc2018",
+  "citation": "@inproceedings{cui-emnlp2019-cmrc2018,\n    title = {A Span-Extraction Dataset for {C}hinese Machine Reading Comprehension},\n    author = {Cui, Yiming  and\n      Liu, Ting  and\n      Che, Wanxiang  and\n      Xiao, Li  and\n      Chen, Zhipeng  and\n      Ma, Wentao  and\n      Wang, Shijin  and\n      Hu, Guoping},\n    booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},\n    month = {nov},\n    year = {2019},\n    address = {Hong Kong, China},\n    publisher = {Association for Computational Linguistics},\n    url = {https://www.aclweb.org/anthology/D19-1600},\n    doi = {10.18653/v1/D19-1600},\n    pages = {5886--5891}}\n",
+  "config_name": "default",
+  "dataset_size": 22298754,
+  "description": "A Span-Extraction dataset for Chinese machine reading comprehension to add language\ndiversities in this area. The dataset is composed by near 20,000 real questions annotated\non Wikipedia paragraphs by human experts. We also annotated a challenge set which\ncontains the questions that need comprehensive understanding and multi-sentence\ninference throughout the context.\n",
+  "download_checksums": {
+    "https://worksheets.codalab.org/rest/bundles/0x15022f0c4d3944a599ab27256686b9ac/contents/blob/": {
+      "num_bytes": 7408757,
+      "checksum": null
+    },
+    "https://worksheets.codalab.org/rest/bundles/0x72252619f67b4346a85e122049c3eabd/contents/blob/": {
+      "num_bytes": 3299139,
+      "checksum": null
+    },
+    "https://worksheets.codalab.org/rest/bundles/0x182c2e71fac94fc2a45cc1a3376879f7/contents/blob/": {
+      "num_bytes": 800221,
+      "checksum": null
+    }
+  },
+  "download_size": 11508117,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "context": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answers": {
+      "feature": {
+        "text": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "answer_start": {
+          "dtype": "int32",
+          "_type": "Value"
+        }
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "https://github.com/ymcui/cmrc2018",
+  "license": "",
+  "size_in_bytes": 33806871,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 15508062,
+      "num_examples": 10142,
+      "dataset_name": "cmrc2018"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 5183785,
+      "num_examples": 3219,
+      "dataset_name": "cmrc2018"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 1606907,
+      "num_examples": 1002,
+      "dataset_name": "cmrc2018"
+    }
+  },
+  "task_templates": [
+    {
+      "task": "question-answering-extractive"
+    }
+  ],
+  "version": {
+    "version_str": "0.1.0",
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
