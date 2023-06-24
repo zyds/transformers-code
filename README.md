@@ -48,13 +48,19 @@
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1Ph4y1b76w/)
 
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=LRhcUjbSOEk)
+
 - 06-基础组件之 Evaluate
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1uk4y1W7tK/)
 
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=tpE2bleqk6A)
+
 - 07-基础组件之 Trainer
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1KX4y1a7Jk/)
+
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=YzS-BvHeSGE)
 
 ## Transformers 实战演练篇
 
@@ -62,13 +68,23 @@
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV18N411C71F/)
 
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=WRBPd86T1Fc)
+
 - 09-实战演练之 命名实体识别
    
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1gW4y197CT/)
 
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=3xQR-7sly_I)
+
 - 10-实战演练之 机器阅读理解（上）
    
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1rs4y1k7FX/)
+
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=-rzKZIpELOk)
+
+- 11-实战演练之 机器阅读理解（下）
+
+   - [Bilibili 视频链接](https://www.bilibili.com/video/BV1uN411D7oy/)
 
 
 # Star History
