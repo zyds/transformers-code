@@ -4,6 +4,17 @@
 
 手把手带你实战Transformers课程的代码仓库
 
+# 课程规划
+
+- 基础入门篇：Transformers入门，从环境安装到各个基础组件的介绍，包括Pipeline、Tokenizer、Model、Datasets、Evaluate、Trainer，并通过一个最基本的文本分类实例将各个模块进行串讲
+
+- 实战演练篇：Transformers实战，通过丰富的实战案例对Transformers在NLP任务中的解决方案进行介绍，包括命名实体识别、机器阅读理解、多项选择、文本相似度、检索式对话机器人、掩码语言模型、因果语言模型、摘要生成、生成式对话机器人等，具体内容可能还会再拓展
+
+- 应用部署篇：...
+
+- LLM实践篇：...
+
+
 # 课程地址
 
 课程视频发布在B站与YouTube，代码与视频会逐步进行更新，目前课程主要更新在B站，YouTube后续会持续更新
@@ -12,9 +23,9 @@
 
 - [YouTube](https://www.youtube.com/@lunatic-zzz)
 
-## Transformers 基础入门篇
+## Transformers 基础入门篇 (已更新完成)
 
-- 01-基础知识与环境安装 
+- 01-基础知识与环境安装
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1ma4y1g791) 
    
@@ -86,6 +97,13 @@
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1uN411D7oy/)
 
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=oTlpbISOkaE)
+
+- 12-实战演练之 多项选择 
+
+   - [Bilibili 视频链接](https://www.bilibili.com/video/BV1FM4y1E77w/)
+
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=xHM1PjIihJs)
 
 # Star History
 
