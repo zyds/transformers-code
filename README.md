@@ -87,23 +87,31 @@
 
    - [YouTube 视频链接](https://www.youtube.com/watch?v=3xQR-7sly_I)
 
-- 10-实战演练之 机器阅读理解（上）
+- 10-实战演练之 机器阅读理解（上，过长截断策略）
    
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1rs4y1k7FX/)
 
    - [YouTube 视频链接](https://www.youtube.com/watch?v=-rzKZIpELOk)
 
-- 11-实战演练之 机器阅读理解（下）
+- 10-实战演练之 机器阅读理解（下，滑动窗口策略）
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1uN411D7oy/)
 
    - [YouTube 视频链接](https://www.youtube.com/watch?v=oTlpbISOkaE)
 
-- 12-实战演练之 多项选择 
+- 11-实战演练之 多项选择 
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1FM4y1E77w/)
 
    - [YouTube 视频链接](https://www.youtube.com/watch?v=xHM1PjIihJs)
+
+- 12-实战演练之 文本相似度（上，基于交互策略） 
+
+   - [Bilibili 视频链接](https://www.bilibili.com/video/BV1Tm4y1J7EF/)
+
+- 12-实战演练之 文本相似度（下，基于匹配策略） 
+
+   - [Bilibili 视频链接](https://www.bilibili.com/video/BV13P411C7UD/)
 
 # Star History
 
