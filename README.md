@@ -109,9 +109,19 @@
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1Tm4y1J7EF/)
 
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=SElN5_LqZls)
+
 - 12-实战演练之 文本相似度（下，基于匹配策略） 
 
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV13P411C7UD/)
+
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=7zxNXBBDqwA)
+
+- 13-实战演练之 检索机器人
+
+   - [Bilibili 视频链接](https://www.bilibili.com/video/BV1Lh4y117KJ/)
+
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=gHOUoqqXb8I)
 
 # Star History
 
