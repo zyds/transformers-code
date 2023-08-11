@@ -123,6 +123,12 @@
 
    - [YouTube 视频链接](https://www.youtube.com/watch?v=gHOUoqqXb8I)
 
+- 14-实战演练之 预训练模型
+
+   - [Bilibili 视频链接](https://www.bilibili.com/video/BV1B44y1c7x2/)
+
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=jHRo2qgtE7Y)
+
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zyds/transformers-code&type=Date)](https://star-history.com/#zyds/transformers-code&Date)
