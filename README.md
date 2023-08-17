@@ -10,6 +10,8 @@
 
 - 实战演练篇：Transformers实战，通过丰富的实战案例对Transformers在NLP任务中的解决方案进行介绍，包括命名实体识别、机器阅读理解、多项选择、文本相似度、检索式对话机器人、掩码语言模型、因果语言模型、摘要生成、生成式对话机器人等，具体内容可能还会再拓展
 
+- 高效训练篇：Transformers模型高效训练，初步规划为参数高效微调与分布式训练。
+
 - 应用部署篇：...
 
 - LLM实践篇：...
@@ -128,6 +130,18 @@
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1B44y1c7x2/)
 
    - [YouTube 视频链接](https://www.youtube.com/watch?v=jHRo2qgtE7Y)
+
+- 15-实战演练篇之 文本摘要（上，基于T5模型）
+
+   - [Bilibili 视频链接](https://www.bilibili.com/video/BV1Kp4y137ar/)
+
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=5AusJJbpWaA)
+
+- 15-实战演练篇之 文本摘要（下，基于GLM模型）
+
+   - [Bilibili 视频链接](https://www.bilibili.com/video/BV1CF411y7hw/)
+
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=BK2wUNZZbRg)
 
 # Star History
 
