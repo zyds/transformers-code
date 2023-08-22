@@ -75,7 +75,7 @@
 
    - [YouTube 视频链接](https://www.youtube.com/watch?v=YzS-BvHeSGE)
 
-## Transformers 实战演练篇
+## Transformers 实战演练篇 (已更新完成)
 
 - 08-基于 Transformers的 NLP解决方案
 
@@ -142,6 +142,12 @@
    - [Bilibili 视频链接](https://www.bilibili.com/video/BV1CF411y7hw/)
 
    - [YouTube 视频链接](https://www.youtube.com/watch?v=BK2wUNZZbRg)
+
+- 16-实战演练篇之 生成式对话机器人（基于Bloom）
+
+   - [Bilibili 视频链接](https://www.bilibili.com/video/BV11r4y197Ht/)
+
+   - [YouTube 视频链接](https://www.youtube.com/watch?v=McE0XUG5Gw4)
 
 # Star History
 
