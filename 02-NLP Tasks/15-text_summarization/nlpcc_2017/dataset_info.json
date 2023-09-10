@@ -1,0 +1,41 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "supremezxc--nlpcc_2017",
+  "dataset_size": 143098742,
+  "description": "",
+  "download_checksums": {
+    "https://huggingface.co/datasets/supremezxc/nlpcc_2017/resolve/fec0f36175ebc707d33442b1f75c1b9380294e6f/nlpcc_data.json": {
+      "num_bytes": 145715391,
+      "checksum": null
+    }
+  },
+  "download_size": 145715391,
+  "features": {
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "content": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 288814133,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 143098742,
+      "num_examples": 50000,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

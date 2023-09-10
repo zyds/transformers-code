@@ -1,0 +1,41 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 510851905,
+  "description": "",
+  "download_checksums": {
+    "C:\\Users\\yuyao\\Desktop\\transformers\\14-mask_language_model\\wikipedia-cn-20230720-filtered.json": {
+      "num_bytes": 524489333,
+      "checksum": null
+    }
+  },
+  "download_size": 524489333,
+  "features": {
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "completion": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 1035341238,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 510851905,
+      "num_examples": 254547,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

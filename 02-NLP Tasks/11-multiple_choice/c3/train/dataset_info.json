@@ -1,0 +1,72 @@
+{
+  "builder_name": "clue",
+  "citation": "@article{sun2020investigating,\n    author    = {Kai Sun and\n                 Dian Yu and\n                 Dong Yu and\n                 Claire Cardie},\n    title     = {Investigating Prior Knowledge for Challenging Chinese Machine Reading\n                 Comprehension},\n    journal   = {Trans. Assoc. Comput. Linguistics},\n    volume    = {8},\n    pages     = {141--155},\n    year      = {2020},\n    url       = {https://transacl.org/ojs/index.php/tacl/article/view/1882}\n  }\n@misc{xu2020clue,\n    title={CLUE: A Chinese Language Understanding Evaluation Benchmark},\n    author={Liang Xu and Xuanwei Zhang and Lu Li and Hai Hu and Chenjie Cao and Weitang Liu and Junyi Li and Yudong Li and Kai Sun and Yechen Xu and Yiming Cui and Cong Yu and Qianqian Dong and Yin Tian and Dian Yu and Bo Shi and Jun Zeng and Rongzhao Wang and Weijian Xie and Yanting Li and Yina Patterson and Zuoyu Tian and Yiwen Zhang and He Zhou and Shaoweihua Liu and Qipeng Zhao and Cong Yue and Xinrui Zhang and Zhengliang Yang and Zhenzhong Lan},\n    year={2020},\n    eprint={2004.05986},\n    archivePrefix={arXiv},\n    primaryClass={cs.CL}\n}\n",
+  "config_name": "c3",
+  "dataset_size": 14263824,
+  "description": "CLUE, A Chinese Language Understanding Evaluation Benchmark\n(https://www.cluebenchmarks.com/) is a collection of resources for training,\nevaluating, and analyzing Chinese language understanding systems.\n\n",
+  "download_checksums": {
+    "https://storage.googleapis.com/cluebenchmark/tasks/c3_public.zip": {
+      "num_bytes": 3495930,
+      "checksum": null
+    }
+  },
+  "download_size": 3495930,
+  "features": {
+    "id": {
+      "dtype": "int32",
+      "_type": "Value"
+    },
+    "context": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "choice": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "https://arxiv.org/abs/1904.09679",
+  "license": "",
+  "size_in_bytes": 17759754,
+  "splits": {
+    "test": {
+      "name": "test",
+      "num_bytes": 1600142,
+      "num_examples": 1625,
+      "dataset_name": "clue"
+    },
+    "train": {
+      "name": "train",
+      "num_bytes": 9672739,
+      "num_examples": 11869,
+      "dataset_name": "clue"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 2990943,
+      "num_examples": 3816,
+      "dataset_name": "clue"
+    }
+  },
+  "version": {
+    "version_str": "1.0.0",
+    "description": "",
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

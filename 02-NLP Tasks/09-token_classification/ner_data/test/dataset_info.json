@@ -1,0 +1,79 @@
+{
+  "builder_name": "peoples_daily_ner",
+  "citation": "",
+  "config_name": "peoples_daily_ner",
+  "dataset_size": 19996092,
+  "description": "People's Daily NER Dataset is a commonly used dataset for Chinese NER, with\ntext from People's Daily (\u4eba\u6c11\u65e5\u62a5), the largest official newspaper.\n\nThe dataset is in BIO scheme. Entity types are: PER (person), ORG (organization)\nand LOC (location).\n",
+  "download_checksums": {
+    "https://raw.githubusercontent.com/OYE93/Chinese-NLP-Corpus/master/NER/People's%20Daily/example.train": {
+      "num_bytes": 6277429,
+      "checksum": null
+    },
+    "https://raw.githubusercontent.com/OYE93/Chinese-NLP-Corpus/master/NER/People's%20Daily/example.dev": {
+      "num_bytes": 702455,
+      "checksum": null
+    },
+    "https://raw.githubusercontent.com/OYE93/Chinese-NLP-Corpus/master/NER/People's%20Daily/example.test": {
+      "num_bytes": 1405788,
+      "checksum": null
+    }
+  },
+  "download_size": 8385672,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "ner_tags": {
+      "feature": {
+        "names": [
+          "O",
+          "B-PER",
+          "I-PER",
+          "B-ORG",
+          "I-ORG",
+          "B-LOC",
+          "I-LOC"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "https://github.com/OYE93/Chinese-NLP-Corpus/tree/master/NER/People's%20Daily",
+  "license": "",
+  "size_in_bytes": 28381764,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 14972408,
+      "num_examples": 20865,
+      "dataset_name": "peoples_daily_ner"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 1676725,
+      "num_examples": 2319,
+      "dataset_name": "peoples_daily_ner"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 3346959,
+      "num_examples": 4637,
+      "dataset_name": "peoples_daily_ner"
+    }
+  },
+  "version": {
+    "version_str": "1.0.0",
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

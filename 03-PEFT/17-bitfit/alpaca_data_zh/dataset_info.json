@@ -1,0 +1,45 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 32150579,
+  "description": "",
+  "download_checksums": {
+    "C:\\Users\\yuyao\\Desktop\\transformers\\16-generative_chatbot\\alpaca_gpt4_data_zh.json": {
+      "num_bytes": 35100559,
+      "checksum": null
+    }
+  },
+  "download_size": 35100559,
+  "features": {
+    "output": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "instruction": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 67251138,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 32150579,
+      "num_examples": 48818,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
