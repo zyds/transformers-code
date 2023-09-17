@@ -27,93 +27,101 @@
 
 ## Transformers 基础入门篇 (已更新完成)
 
-- 01-基础知识与环境安装
+- 01- 基础知识与环境安装
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1ma4y1g791) | [YouTube](https://www.youtube.com/watch?v=ddCfxkCh-O8)
 
-- 02-基础组件之 Pipeline
+- 02 基础组件之 Pipeline
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1ta4y1g7bq) | [YouTube](https://www.youtube.com/watch?v=Xeu3qFTP9qY&t=7s)
 
-- 03-基础组件之 Tokenizer
+- 03 基础组件之 Tokenizer
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1NX4y1177c) | [YouTube](https://www.youtube.com/watch?v=G4JmQu-VWrU)
 
-- 04-基础组件之 Model(上) 基本使用
+- 04 基础组件之 Model(上) 基本使用
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1KM4y1q7Js/) | [YouTube](https://www.youtube.com/watch?v=xK-6VcLqa94)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1KM4y1q7Js) | [YouTube](https://www.youtube.com/watch?v=xK-6VcLqa94)
 
-- 04-基础组件之 Model(下) BERT文本分类代码实例
+- 04 基础组件之 Model(下) BERT文本分类代码实例
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV18T411t7h6/) | [YouTube](https://www.youtube.com/watch?v=nkwOQQDCDvc)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV18T411t7h6) | [YouTube](https://www.youtube.com/watch?v=nkwOQQDCDvc)
 
-- 05-基础组件之 Datasets
+- 05 基础组件之 Datasets
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Ph4y1b76w/) | [YouTube](https://www.youtube.com/watch?v=LRhcUjbSOEk)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Ph4y1b76w) | [YouTube](https://www.youtube.com/watch?v=LRhcUjbSOEk)
 
-- 06-基础组件之 Evaluate
+- 06 基础组件之 Evaluate
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1uk4y1W7tK/) | [YouTube](https://www.youtube.com/watch?v=tpE2bleqk6A)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1uk4y1W7tK) | [YouTube](https://www.youtube.com/watch?v=tpE2bleqk6A)
 
-- 07-基础组件之 Trainer
+- 07 基础组件之 Trainer
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1KX4y1a7Jk/) | [YouTube](https://www.youtube.com/watch?v=YzS-BvHeSGE)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1KX4y1a7Jk) | [YouTube](https://www.youtube.com/watch?v=YzS-BvHeSGE)
 
 ## Transformers 实战演练篇 (已更新完成)
 
-- 08-基于 Transformers的 NLP解决方案
+- 08 基于 Transformers的 NLP解决方案
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV18N411C71F/) | [YouTube](https://www.youtube.com/watch?v=WRBPd86T1Fc)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV18N411C71F) | [YouTube](https://www.youtube.com/watch?v=WRBPd86T1Fc)
 
-- 09-实战演练之 命名实体识别
+- 09 实战演练之 命名实体识别
    
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1gW4y197CT/) | [YouTube](https://www.youtube.com/watch?v=3xQR-7sly_I)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1gW4y197CT) | [YouTube](https://www.youtube.com/watch?v=3xQR-7sly_I)
 
-- 10-实战演练之 机器阅读理解（上，过长截断策略）
+- 10 实战演练之 机器阅读理解（上，过长截断策略）
    
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1rs4y1k7FX/) | [YouTube](https://www.youtube.com/watch?v=-rzKZIpELOk)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1rs4y1k7FX) | [YouTube](https://www.youtube.com/watch?v=-rzKZIpELOk)
 
-- 10-实战演练之 机器阅读理解（下，滑动窗口策略）
+- 10 实战演练之 机器阅读理解（下，滑动窗口策略）
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1uN411D7oy/) | [YouTube](https://www.youtube.com/watch?v=oTlpbISOkaE)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1uN411D7oy) | [YouTube](https://www.youtube.com/watch?v=oTlpbISOkaE)
 
-- 11-实战演练之 多项选择 
+- 11 实战演练之 多项选择 
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1FM4y1E77w/) | [YouTube](https://www.youtube.com/watch?v=xHM1PjIihJs)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1FM4y1E77w) | [YouTube](https://www.youtube.com/watch?v=xHM1PjIihJs)
 
-- 12-实战演练之 文本相似度（上，基于交互策略） 
+- 12 实战演练之 文本相似度（上，基于交互策略） 
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Tm4y1J7EF/) | [YouTube](https://www.youtube.com/watch?v=SElN5_LqZls)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Tm4y1J7EF) | [YouTube](https://www.youtube.com/watch?v=SElN5_LqZls)
 
-- 12-实战演练之 文本相似度（下，基于匹配策略） 
+- 12 实战演练之 文本相似度（下，基于匹配策略） 
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV13P411C7UD/) | [YouTube](https://www.youtube.com/watch?v=7zxNXBBDqwA)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV13P411C7UD) | [YouTube](https://www.youtube.com/watch?v=7zxNXBBDqwA)
 
-- 13-实战演练之 检索机器人
+- 13 实战演练之 检索机器人
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Lh4y117KJ/) | [YouTube](https://www.youtube.com/watch?v=gHOUoqqXb8I)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Lh4y117KJ) | [YouTube](https://www.youtube.com/watch?v=gHOUoqqXb8I)
 
-- 14-实战演练之 预训练模型
+- 14 实战演练之 预训练模型
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1B44y1c7x2/) | [YouTube](https://www.youtube.com/watch?v=jHRo2qgtE7Y)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1B44y1c7x2) | [YouTube](https://www.youtube.com/watch?v=jHRo2qgtE7Y)
 
-- 15-实战演练篇之 文本摘要（上，基于T5模型）
+- 15 实战演练篇之 文本摘要（上，基于T5模型）
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Kp4y137ar/) | [YouTube](https://www.youtube.com/watch?v=5AusJJbpWaA)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Kp4y137ar) | [YouTube](https://www.youtube.com/watch?v=5AusJJbpWaA)
 
-- 15-实战演练篇之 文本摘要（下，基于GLM模型）
+- 15 实战演练篇之 文本摘要（下，基于GLM模型）
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1CF411y7hw/) | [YouTube](https://www.youtube.com/watch?v=BK2wUNZZbRg)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1CF411y7hw) | [YouTube](https://www.youtube.com/watch?v=BK2wUNZZbRg)
 
-- 16-实战演练篇之 生成式对话机器人（基于Bloom）
+- 16 实战演练篇之 生成式对话机器人（基于Bloom）
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV11r4y197Ht/) | [YouTube](https://www.youtube.com/watch?v=McE0XUG5Gw4)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV11r4y197Ht) | [YouTube](https://www.youtube.com/watch?v=McE0XUG5Gw4)
 
 ## Transformers 参数高效微调篇
 
-- 17-参数高效微调与BitFit实战
+- 17 参数高效微调与BitFit实战
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Xu4y1k7Ls) | [YouTube](https://www.youtube.com/watch?v=ynBE40yVTSk)
+
+- 18 Prompt-Tuning原理与实战
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Fu4y1C7tJ) | [YouTube](https://www.youtube.com/watch?v=aAbVsm6tWIM)
+
+- 19 P-Tuning原理与实战
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV17V411N7Ld) | [YouTube](https://www.youtube.com/watch?v=xNC12IhNuw4)
 
 # Star History
 
