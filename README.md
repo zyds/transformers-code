@@ -123,6 +123,10 @@
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV17V411N7Ld) | [YouTube](https://www.youtube.com/watch?v=xNC12IhNuw4)
 
+- 20 Prefix-Tuning原理与实战
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Ru411g7Qa) | [YouTube](https://www.youtube.com/watch?v=EYd-sJHXCio)
+
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zyds/transformers-code&type=Date)](https://star-history.com/#zyds/transformers-code&Date)
