@@ -115,17 +115,21 @@
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Xu4y1k7Ls) | [YouTube](https://www.youtube.com/watch?v=ynBE40yVTSk)
 
-- 18 Prompt-Tuning原理与实战
+- 18 Prompt-Tuning 原理与实战
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Fu4y1C7tJ) | [YouTube](https://www.youtube.com/watch?v=aAbVsm6tWIM)
 
-- 19 P-Tuning原理与实战
+- 19 P-Tuning 原理与实战
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV17V411N7Ld) | [YouTube](https://www.youtube.com/watch?v=xNC12IhNuw4)
 
-- 20 Prefix-Tuning原理与实战
+- 20 Prefix-Tuning 原理与实战
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Ru411g7Qa) | [YouTube](https://www.youtube.com/watch?v=EYd-sJHXCio)
+
+- 21 LoRA 原理与实战
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV13w411y7fq) | [YouTube](https://www.youtube.com/watch?v=-xVJtu9pyoA)
 
 # Star History
 
