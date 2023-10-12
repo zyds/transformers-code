@@ -89,7 +89,7 @@
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV13P411C7UD) | [YouTube](https://www.youtube.com/watch?v=7zxNXBBDqwA)
 
-- 13 实战演练之 检索机器人
+- 13 实战演练之 检索式对话机器人
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Lh4y117KJ) | [YouTube](https://www.youtube.com/watch?v=gHOUoqqXb8I)
 
@@ -109,7 +109,7 @@
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV11r4y197Ht) | [YouTube](https://www.youtube.com/watch?v=McE0XUG5Gw4)
 
-## Transformers 参数高效微调篇
+## Transformers 参数高效微调篇 (已更新完成)
 
 - 17 参数高效微调与BitFit实战
 
@@ -130,6 +130,14 @@
 - 21 LoRA 原理与实战
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV13w411y7fq) | [YouTube](https://www.youtube.com/watch?v=-xVJtu9pyoA)
+
+- 22 IA3 原理与实战
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Y8411k7yD) | [YouTube](https://www.youtube.com/watch?v=WOrHqOkMqxY)
+
+- 23 PEFT 进阶操作
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1YH4y1o7rg) | [YouTube](https://www.youtube.com/watch?v=KJljAinRXs8)
 
 # Star History
 
