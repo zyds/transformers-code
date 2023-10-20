@@ -12,7 +12,7 @@
 
 - 高效微调篇：Transformers模型高效微调，以PEFT库为核心，介绍各种常用的参数高效微调方法的原理与实战，包括BitFit、Prompt-tuning、P-tuning、Prefix-Tuning、Lora和IA3
 
-- 低精度训练篇：...
+- 低精度训练篇：Transformers模型低精度训练，基于bitsandbytes库，进行模型的低精度训练，包括LlaMA2-7B和ChatGLM2-6B两个模型的多个不同精度训练的实战演练，包括半精度训练、8bit训练、4bit训练（QLoRA）
 
 - LLM实践篇：...
 
@@ -138,6 +138,13 @@
 - 23 PEFT 进阶操作
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1YH4y1o7rg) | [YouTube](https://www.youtube.com/watch?v=KJljAinRXs8)
+   
+
+## Transformers 低精度训练篇
+
+- 24 低精度训练与模型下载
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1y34y1M7t1) | [YouTube](https://studio.youtube.com/video/mWiXtVs9ZzY)
 
 # Star History
 
