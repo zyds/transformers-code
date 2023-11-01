@@ -144,11 +144,15 @@
 
 - 24 低精度训练与模型下载
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1y34y1M7t1) | [YouTube](https://studio.youtube.com/video/mWiXtVs9ZzY)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1y34y1M7t1) | [YouTube](https://www.youtube.com/watch?v=mWiXtVs9ZzY)
 
 - 25 半精度模型训练（上，基于LLaMA2的半精度模型训练）
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1CB4y1R78v) | [YouTube](https://studio.youtube.com/video/Is4T8u1Astk)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1CB4y1R78v) | [YouTube](https://www.youtube.com/watch?v=Is4T8u1Astk)
+
+- 25 半精度模型训练（下，基于ChatGLM3的半精度模型训练）
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1aw411M7Cv) | [YouTube](https://www.youtube.com/watch?v=8SmlpNuY_pU)
 
 # Star History
 
