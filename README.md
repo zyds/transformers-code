@@ -154,6 +154,10 @@
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1aw411M7Cv) | [YouTube](https://www.youtube.com/watch?v=8SmlpNuY_pU)
 
+- 26 量化与8bit模型训练
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1EN411g7Yn) | [YouTube](https://www.youtube.com/watch?v=XKImkaWv7-Y)
+
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zyds/transformers-code&type=Date)](https://star-history.com/#zyds/transformers-code&Date)
