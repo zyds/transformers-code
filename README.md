@@ -158,6 +158,13 @@
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1EN411g7Yn) | [YouTube](https://www.youtube.com/watch?v=XKImkaWv7-Y)
 
+
+## Transformers 番外技能篇
+
+- 基于Optuna的Transformers模型自动调参
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1NN4y1S7i8) | [YouTube](https://www.youtube.com/watch?v=ugiAW2ukZZw)
+
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zyds/transformers-code&type=Date)](https://star-history.com/#zyds/transformers-code&Date)
