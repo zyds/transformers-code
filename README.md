@@ -158,6 +158,9 @@
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1EN411g7Yn) | [YouTube](https://www.youtube.com/watch?v=XKImkaWv7-Y)
 
+- 27 4bit量化与QLoRA模型训练
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1DQ4y1t7e8) | [YouTube](https://www.youtube.com/watch?v=CY0jTExZlKE)
 
 ## Transformers 番外技能篇
 
