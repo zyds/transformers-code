@@ -4,6 +4,10 @@
 
 手把手带你实战Transformers课程的代码仓库
 
+## 代码适配
+
+- transformers==4.36.2
+
 # 课程规划
 
 - 基础入门篇：Transformers入门，从环境安装到各个基础组件的介绍，包括Pipeline、Tokenizer、Model、Datasets、Evaluate、Trainer，并通过一个最基本的文本分类实例将各个模块进行串讲
@@ -14,7 +18,13 @@
 
 - 低精度训练篇：Transformers模型低精度训练，基于bitsandbytes库，进行模型的低精度训练，包括LlaMA2-7B和ChatGLM2-6B两个模型的多个不同精度训练的实战演练，包括半精度训练、8bit训练、4bit训练（QLoRA）
 
-- LLM实践篇：...
+- 分布式训练篇：Transformers模型分布式训练，基于accelerate库讲解transformers模型的分布式训练解决方案，介绍分布式训练的基本原理以及accelerate库的基本使用方式，包括与Deepspeed框架的集成
+
+- 对齐训练篇: ...
+
+- 性能优化篇: ...
+
+- 系统演示篇: ...
 
 
 # 课程地址
@@ -31,7 +41,7 @@
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1ma4y1g791) | [YouTube](https://www.youtube.com/watch?v=ddCfxkCh-O8)
 
-- 02 基础组件之 Pipeline
+- 02 基础组件之 Pipeline | 
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1ta4y1g7bq) | [YouTube](https://www.youtube.com/watch?v=Xeu3qFTP9qY&t=7s)
 
@@ -161,6 +171,12 @@
 - 27 4bit量化与QLoRA模型训练
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1DQ4y1t7e8) | [YouTube](https://www.youtube.com/watch?v=CY0jTExZlKE)
+
+## Transformers 分布式训练篇
+
+- 28 分布式训练基础与环境配置
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1cK4y1z7Mv) | [YouTube](https://www.youtube.com/watch?v=eNOoIlUCX6Q)
 
 ## Transformers 番外技能篇
 
