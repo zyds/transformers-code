@@ -150,7 +150,7 @@
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1YH4y1o7rg) | [YouTube](https://www.youtube.com/watch?v=KJljAinRXs8)
    
 
-## Transformers 低精度训练篇
+## Transformers 低精度训练篇（已更新完成）
 
 - 24 低精度训练与模型下载
 
@@ -177,6 +177,10 @@
 - 28 分布式训练基础与环境配置
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1cK4y1z7Mv) | [YouTube](https://www.youtube.com/watch?v=eNOoIlUCX6Q)
+
+- 29 Data Parallel原理与应用
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1qN4y1n7iG/) | [YouTube](https://www.youtube.com/watch?v=WiRpMjHL79s)
 
 ## Transformers 番外技能篇
 
