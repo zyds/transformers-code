@@ -180,7 +180,11 @@
 
 - 29 Data Parallel原理与应用
 
-   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1qN4y1n7iG/) | [YouTube](https://www.youtube.com/watch?v=WiRpMjHL79s)
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1qN4y1n7iG) | [YouTube](https://www.youtube.com/watch?v=WiRpMjHL79s)
+
+- 30 Distributed Data Parallel原理与应用
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1wS421w7ug) | [YouTube](https://www.youtube.com/watch?v=hoa-AIE_yxk)
 
 ## Transformers 番外技能篇
 
