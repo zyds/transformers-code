@@ -186,6 +186,10 @@
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1wS421w7ug) | [YouTube](https://www.youtube.com/watch?v=hoa-AIE_yxk)
 
+- 31 Accelerate 分布式训练入门
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV12Z421t74R) | [YouTube](https://www.youtube.com/watch?v=eDaT_bBoiJ4)
+
 ## Transformers 番外技能篇
 
 - 基于Optuna的Transformers模型自动调参
