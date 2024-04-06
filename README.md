@@ -190,6 +190,14 @@
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV12Z421t74R) | [YouTube](https://www.youtube.com/watch?v=eDaT_bBoiJ4)
 
+- 32 Accelerate 使用进阶（上）
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1vq421F7Cf) | [YouTube](https://www.youtube.com/watch?v=IhpuxmYoKgI)
+
+- 32 Accelerate 使用进阶（下）
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Lp421975B) | [YouTube](https://www.youtube.com/watch?v=WmZ94u9QDME)
+
 ## Transformers 番外技能篇
 
 - 基于Optuna的Transformers模型自动调参
