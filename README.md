@@ -6,7 +6,21 @@
 
 ## 代码适配
 
-- transformers==4.36.2
+- torch==2.2.1+cu118
+
+- transformers==4.42.4
+
+- peft==0.11.1
+
+- datasets==2.20.0
+
+- accelerate==0.32.1
+
+- bitsandbytes==0.43.1
+
+- faiss-cpu==1.7.4
+
+- tensorboard==2.14.0
 
 # 课程规划
 
