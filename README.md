@@ -186,7 +186,7 @@
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1DQ4y1t7e8) | [YouTube](https://www.youtube.com/watch?v=CY0jTExZlKE)
 
-## Transformers 分布式训练篇
+## Transformers 分布式训练篇（已更新完成）
 
 - 28 分布式训练基础与环境配置
 
@@ -211,6 +211,10 @@
 - 32 Accelerate 使用进阶（下）
 
    - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1Lp421975B) | [YouTube](https://www.youtube.com/watch?v=WmZ94u9QDME)
+
+- 33 Accelerate + Deepspeed
+
+   - 视频地址：[Bilibili](https://www.bilibili.com/video/BV1hb421E7WY) | [YouTube](https://www.youtube.com/watch?v=Vegqv1PDboY)
 
 ## Transformers 番外技能篇
 
